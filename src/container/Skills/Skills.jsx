@@ -11,8 +11,8 @@ const Skills = () => {
   const skillset=[{name:"home designing",bgColor:"white",icon:images.construction},
   {name:"painting",bgColor:"white",icon:images.helmetconstruction},
   {name:"title fitting",bgColor:"white",icon:images.construction},
-  {name:"Javascript",bgColor:"white",icon:images.pointingsketch},
-  {name:"Nodejs",bgColor:"white",icon:images.pointingsketch}];
+  {name:"other",bgColor:"white",icon:images.pointingsketch},
+  {name:"sand",bgColor:"white",icon:images.pointingsketch}];
 
   const experienceSet=[{year:"2022",works:[{name:"construction",company:"harvesh",desc:"All kind of construction work as done"}]},
   {year:"2022",works:[{name:"construction",company:"harvesh",desc:"All kind of construction work as done"}]},
